@@ -1,2 +1,1 @@
-# Dynamic-C#-Web-Application-with-Database-Integration--Online-shopping-System
-Explore a C# web application that seamlessly interacts with databases to unlock data-driven functionality. Dive into its structure and discover valuable insights for your own projects!
+I wove code into a seamless online shopping experience, bridging back-end efficiency with front-end elegance. used skills - C#, SQL, PHP, Html, CSS, JavaScript.
